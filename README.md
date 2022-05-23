@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FongSquared
 - 👀 I’m interested in ... Data science
-- 🌱 I’m currently learning ... R
+- 🌱 I’m currently learning ... JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
